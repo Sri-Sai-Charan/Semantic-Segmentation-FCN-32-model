@@ -17,6 +17,9 @@ As you can see, that each pixel in the image is classified to its respective cla
 # Results
 
 ![image](/results/horse.png)
+![image](/results/sem_seg.png)
+![image](/results/sem_seg_inf.png)
+
 
 
 ## Properties of Segmentation Model:
